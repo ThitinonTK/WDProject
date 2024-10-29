@@ -1,0 +1,26 @@
+#normal-text{
+    font-size: 14px;
+}
+#bold-text{
+    font-size: 14px;
+    font-weight: bold;
+}
+#btn{
+    background: #55679C;
+    color: #FFFFFF;
+    font-size: 14px;
+    border-radius: 5px;
+}
+#footer-text{
+    font-size: 12px;
+}
+#confidence-high{
+    color: #548235;
+    font-weight: bold;
+    font-size: 24px;
+}
+#confidence-low{
+    color: #C00000;
+    font-weight: bold;
+    font-size: 24px;
+}

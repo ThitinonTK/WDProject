@@ -1,0 +1,4 @@
+env
+__pycache__
+GUI/dist
+GUI/build
